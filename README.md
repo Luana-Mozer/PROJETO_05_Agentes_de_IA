@@ -1,5 +1,5 @@
 # Agentes de IA com ALURA e Google GEMINI
-## Nesse projeto, conclui um curso na ALURA onde criei um AI onde recebe uma pergunta lê os arquivos PDF da empresa e responde o usuário abrindo um chamado ou auto resolvendo com base nas informações da empresa usando PYTHON. Confira:
+## Nesse projeto, conclui um curso na ALURA onde criei um AI que recebe uma pergunta lê os arquivos PDF da empresa e responde o usuário abrindo um chamado ou auto resolvendo com base nas informações da empresa usando PYTHON. Confira:
 
 ### Da Triagem Inteligente ao Atendimento Automatizado 
 Criei um Agente de Service Desk com LangChain e LangGraph
