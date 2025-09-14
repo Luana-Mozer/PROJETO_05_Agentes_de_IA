@@ -22,6 +22,8 @@ Na triagem Inteligente na primeira camada utiliza um LLM para analisar a intenç
 
  Fluxo Dinâmico com LangGraph: A mágica por trás da orquestração é o LangGraph. Ele permite criar um "gráfico de estado" que guia a requisição através dos diferentes nós (triagem, auto-resolução, etc.). A beleza do LangGraph é que ele toma decisões dinâmicas. Por exemplo, se o RAG falhar em encontrar uma resposta, o fluxo pode ser redirecionado automaticamente para "ABRIR_CHAMADO" ou "PEDIR_INFO" com base na análise da mensagem original.
 
+<img width="415" height="480" alt="Image" src="https://github.com/user-attachments/assets/4fed1fcb-bfce-4c52-bfa9-e860b3282bf5" />
+
 ### Esse projeto é um excelente exemplo de como podemos ir além de prompts simples e criar agentes que agem de forma autônoma e inteligente. Ele não apenas resolve o problema do usuário mais rapidamente, mas também libera os times de RH e TI para focar em tarefas mais estratégicas.
 
 
