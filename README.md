@@ -29,3 +29,13 @@ Na triagem Inteligente na primeira camada utiliza um LLM para analisar a intenç
 
 
 ### Obrigada por conferir meus projetos!
+
+CONFIRA A EXPLICAÇÃO EM IMAGENS:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7264fae-8a04-4113-803a-565683e3853d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9c0eab0-3bf4-476b-aa12-e08b3fe4dfc0" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/02c88251-252d-449e-acb1-709d8e7c90e7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/89d29134-22b6-4ca9-b1ee-3b0f9f4c4f4a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/87a8ed3e-adcb-4cb9-9076-0f966e0c6e7f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/05a50493-a4c8-4d81-a5db-1b16b638ddd8" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d2d7a980-10de-4dce-bacc-96f3826b69fc" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/92e9a926-7f09-4bf9-9a41-190def5ae05f" />
