@@ -4,8 +4,8 @@ import pathlib
 from typing import TypedDict, Optional, List, Dict, Literal
 from pydantic import BaseModel, Field
 
-# IMPORTANDO BIBLIOTECAS E INSTALANDO (COMO SE ESTIVESSE NO TERMINAL)
-# O código abaixo é uma representação do que faríamos no terminal
+# IMPORTANDO BIBLIOTECAS E INSTALANDO 
+
 # para garantir que as bibliotecas necessárias estejam instaladas.
 # Remova as linhas com `os.system` se preferir instalar manualmente
 # via `pip install -r requirements.txt` ou `pip install ...`.
@@ -48,9 +48,9 @@ from langgraph.graph import StateGraph, START, END
 # Para usar com o pacote `python-dotenv`:
 # from dotenv import load_dotenv
 # load_dotenv()
-GOOGLE_API_KEY = os.getenv('GEMINI_API_KEY')
+API_KEY = os.getenv('*******')
 
-if not GOOGLE_API_KEY:
+if not API_KEY:
     raise ValueError("A chave GOOGLE_API_KEY não está definida nas variáveis de ambiente.")
 
 LLM = ChatGoogleGenerativeAI(
