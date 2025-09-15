@@ -56,7 +56,7 @@ if not API_KEY:
 LLM = ChatGoogleGenerativeAI(
     model="models/gemini-2.5-flash",
     temperature=0,
-    api_key=GOOGLE_API_KEY
+    api_key=API_KEY
 )
 
 # CRIANDO UM PROMPT PARA O LLM
@@ -84,7 +84,7 @@ class TriagemOut(BaseModel):
 LLM_TRIAGEM = ChatGoogleGenerativeAI(
     model="models/gemini-2.5-flash",
     temperature=0,
-    api_key=GOOGLE_API_KEY
+    api_key=API_KEY
 )
 
 # IMPORTANDO CLASSES E CONEXÕES
@@ -137,7 +137,7 @@ chunks = splitter.split_documents(docs)
 
 embeddings = GoogleGenerativeAIEmbeddings(
     model="models/gemini-embedding-001",
-    google_api_key=GOOGLE_API_KEY
+    google_api_key=API_KEY
 )
 
 # A FAISS precisa de documentos para ser inicializada.
