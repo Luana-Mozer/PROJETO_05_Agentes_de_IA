@@ -1,6 +1,6 @@
-# Agentes de IA com ALURA e Google GEMINI
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7264fae-8a04-4113-803a-565683e3853d" />
+
+# Agentes de IA com ALURA e Google GEMINI
 
 ## Nesse projeto, conclui um curso na ALURA onde criei um AI que recebe uma pergunta lê os arquivos PDF da empresa e responde o usuário abrindo um chamado ou auto resolvendo com base nas informações da empresa usando PYTHON. Confira:
 
